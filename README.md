@@ -12,7 +12,7 @@
   [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#第三方插件)
   [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#支持设备)
   [![](https://img.shields.io/badge/-项目截图-FFFFFF.svg)](#项目截图)
-  [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#Thanks)
+  [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#thanks)
   [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#免责声明)
 </div>
 
@@ -70,7 +70,7 @@
 
 > **"您的每一个⭐️，都是开源土壤里的一缕阳光，让灵感发芽，让创造生长~"**
 
-## 🙏 Thanks [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#Thanks-)
+## 🙏 Thanks [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#thanks)
 - [istoreos](https://github.com/istoreos/istoreos)
 - [istoreos-builder](https://github.com/wukongdaily/istoreos-builder)
 - [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
